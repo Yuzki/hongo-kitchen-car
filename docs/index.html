@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>キッチンカー出店カレンダー</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚚 キッチンカー出店カレンダー</h1>
+            <p>東京大学のキッチンカー出店情報</p>
+        </header>
+
+        <div class="controls">
+            <label for="market-select">出店場所:</label>
+            <select id="market-select">
+                <option value="">すべての場所</option>
+            </select>
+            
+            <label for="month-select">月:</label>
+            <select id="month-select">
+                <option value="">すべての月</option>
+            </select>
+        </div>
+
+        <div class="calendar-container">
+            <div class="calendar-header">
+                <button id="prev-month">‹</button>
+                <h2 id="current-month"></h2>
+                <button id="next-month">›</button>
+            </div>
+            <div class="calendar" id="calendar"></div>
+        </div>
+
+        <div class="shop-details" id="shop-details" style="display: none;">
+            <h3>出店情報詳細</h3>
+            <div id="shop-list"></div>
+        </div>
+
+        <div class="legend">
+            <h3>凡例</h3>
+            <div class="legend-item">
+                <span class="color-box has-shops"></span>
+                <span>出店あり</span>
+            </div>
+            <div class="legend-item">
+                <span class="color-box no-shops"></span>
+                <span>出店なし</span>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/calendar.js"></script>
+</body>
+</html>

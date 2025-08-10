@@ -3,8 +3,9 @@ import time
 
 from scraper import KitchenCarScraper
 
+DATA_DIR = "docs/data/"
 
-def load_markets(file_path: str = "data/markets.json") -> list:
+def load_markets(file_path: str = f"{DATA_DIR}markets.json") -> list:
     """
     markets.jsonからマーケット情報を読み込む
     
@@ -54,7 +55,7 @@ def get_data():
             market_info = scraper.get_market_info(market_id)
             
             # ファイルに保存
-            output_path = f"data/market_info_{market_id}.json"
+            output_path = f"{DATA_DIR}market_info_{market_id}.json"
             scraper.save_market_info(market_info, output_path)
             
             print(f"マーケット情報を {output_path} に保存しました")

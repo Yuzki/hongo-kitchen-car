@@ -29,8 +29,8 @@ jobs:
       - name: Run scraper
         run: uv run script/get_data.py
 
-      - name: Sync docs data into data directory
-        run: rsync -a docs/data/ data/
+      - name: Sync data into docs directory
+        run: rsync -a data/ docs/data/
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5

@@ -3,7 +3,8 @@ import time
 
 from scraper import KitchenCarScraper
 
-DATA_DIR = "docs/data/"
+# Generate fresh JSON under the source data directory; GH Pages copy happens later.
+DATA_DIR = "data/"
 
 def load_markets(file_path: str = f"{DATA_DIR}markets.json") -> list:
     """

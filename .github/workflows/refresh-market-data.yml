@@ -1,0 +1,41 @@
+name: Refresh market data
+
+on:
+  schedule:
+    # Run on the 1st and 15th of every month at 15:00 UTC (00:00 JST).
+    - cron: "0 15 1,15 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: uv sync --frozen
+
+      - name: Run scraper
+        run: uv run script/get_data.py
+
+      - name: Sync docs data into data directory
+        run: rsync -a docs/data/ data/
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh market data"
+          file_pattern: |
+            data/*.json
+            docs/data/*.json

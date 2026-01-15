@@ -11,7 +11,7 @@
     },
     {
       "name": "クリスマスサンタ",
-      "menu": "レモンペッパーチキン",
+      "menu": "ローストチキン",
       "hours": "11:30 〜 13:45",
       "date": "2026-01-26",
       "url": "https://www.mellow.jp/ss_web/shops/bWS4l"
@@ -34,7 +34,7 @@
       "name": "ISLAND KITCHEN",
       "menu": "フライドジャークチキン　BBQ",
       "hours": "11:30 〜 13:45",
-      "date": "2026-01-05",
+      "date": "2026-02-16",
       "url": "https://www.mellow.jp/ss_web/shops/q8Smo"
     },
     {
@@ -55,14 +55,14 @@
       "name": "TOKYO PAELLA",
       "menu": "PAELLA ※週替わり",
       "hours": "11:30 〜 13:45",
-      "date": "2026-01-06",
+      "date": "2026-02-17",
       "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
     },
     {
       "name": "GRILL TOKYO",
       "menu": "スペシャルダブルセット",
       "hours": "11:30 〜 13:45",
-      "date": "2026-01-13",
+      "date": "2026-02-24",
       "url": "https://www.mellow.jp/ss_web/shops/JmSL"
     },
     {
@@ -94,13 +94,6 @@
       "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
     },
     {
-      "name": "ミラーン/MILLAN",
-      "menu": "カレー 一種盛",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-01-14",
-      "url": "https://www.mellow.jp/ss_web/shops/q8S84"
-    },
-    {
       "name": "Bear's CAMP Cafe",
       "menu": "数量限定ハーフタコライス",
       "hours": "11:30 〜 13:45",
@@ -120,13 +113,6 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-02-04",
       "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
-    },
-    {
-      "name": "琉球キッチン こだま",
-      "menu": "琉球ランチBOX",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-01-22",
-      "url": "https://www.mellow.jp/ss_web/shops/YRSgB"
     },
     {
       "name": "むら川",
@@ -153,15 +139,15 @@
       "name": "STREET FARM KITCHEN",
       "menu": "タイスタイルBBQセット",
       "hours": "11:30 〜 13:45",
-      "date": "2026-01-08",
+      "date": "2026-02-19",
       "url": "https://www.mellow.jp/ss_web/shops/9ySOP"
     },
     {
-      "name": "ピエニ キッサ",
-      "menu": "ダブルチーズタコライス",
+      "name": "琉球キッチン こだま",
+      "menu": "琉球ランチBOX",
       "hours": "11:30 〜 13:45",
-      "date": "2026-01-15",
-      "url": "https://www.mellow.jp/ss_web/shops/jzSbM"
+      "date": "2026-01-22",
+      "url": "https://www.mellow.jp/ss_web/shops/YRSgB"
     },
     {
       "name": "肉屋のまかない弁当　やまと",
@@ -195,9 +181,9 @@
       "name": "栄屋",
       "menu": "横手焼きそば",
       "hours": "11:30 〜 13:45",
-      "date": "2026-01-09",
+      "date": "2026-02-20",
       "url": "https://www.mellow.jp/ss_web/shops/evSx"
     }
   ],
-  "scraped_at": "2026-01-05 02:41:18"
+  "scraped_at": "2026-01-15 15:19:49"
 }

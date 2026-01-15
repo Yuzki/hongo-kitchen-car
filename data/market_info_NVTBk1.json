@@ -11,7 +11,7 @@
     },
     {
       "name": "クリスマスサンタ",
-      "menu": "レモンペッパーチキン",
+      "menu": "ローストチキン",
       "hours": "11:30 〜 13:45",
       "date": "2026-02-16",
       "url": "https://www.mellow.jp/ss_web/shops/bWS4l"
@@ -62,7 +62,7 @@
       "name": "アジアエスニックキッチンMontana",
       "menu": "コク旨ガパオライス",
       "hours": "11:30 〜 13:45",
-      "date": "2026-01-06",
+      "date": "2026-02-17",
       "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
     },
     {
@@ -76,14 +76,14 @@
       "name": "Kitchen Kanaloa",
       "menu": "しらすとビーフのランチボックス",
       "hours": "11:30 〜 13:45",
-      "date": "2026-01-13",
+      "date": "2026-02-24",
       "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
     },
     {
       "name": "Comida Latina",
       "menu": "沖縄タコライス",
       "hours": "11:30 〜 13:45",
-      "date": "2026-01-07",
+      "date": "2026-02-18",
       "url": "https://www.mellow.jp/ss_web/shops/yJSeD"
     },
     {
@@ -99,13 +99,6 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-03-25",
       "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
-    },
-    {
-      "name": "MOCHIKO chicken factory",
-      "menu": "モチコチキン（ハニーマスタードソース）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-01-14",
-      "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
     },
     {
       "name": "ミラーン/MILLAN",
@@ -125,7 +118,7 @@
       "name": "むら川",
       "menu": "サーモンのレアカツ海苔弁",
       "hours": "11:30 〜 13:45",
-      "date": "2026-01-08",
+      "date": "2026-02-19",
       "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
     },
     {
@@ -148,13 +141,6 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-02-05",
       "url": "https://www.mellow.jp/ss_web/shops/jzSbM"
-    },
-    {
-      "name": "てふてふ",
-      "menu": "カオマンガイ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-01-15",
-      "url": "https://www.mellow.jp/ss_web/shops/2ZSb"
     },
     {
       "name": "papagayadeli",
@@ -206,5 +192,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
     }
   ],
-  "scraped_at": "2026-01-05 02:41:16"
+  "scraped_at": "2026-01-15 15:19:48"
 }

@@ -13,7 +13,7 @@
       "name": "クリスマスサンタ",
       "menu": "ローストチキン",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-02",
+      "date": "2026-03-16",
       "url": "https://www.mellow.jp/ss_web/shops/bWS4l"
     },
     {
@@ -22,13 +22,6 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-02-16",
       "url": "https://www.mellow.jp/ss_web/shops/yJSeq"
-    },
-    {
-      "name": "ビストロカルロス",
-      "menu": "カルロス☆ビーフステーキライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-09",
-      "url": "https://www.mellow.jp/ss_web/shops/rXS3o"
     },
     {
       "name": "es.tokyo",
@@ -69,21 +62,14 @@
       "name": "アジアエスニックキッチンMontana",
       "menu": "コク旨ガパオライス",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-03",
+      "date": "2026-03-17",
       "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
-    },
-    {
-      "name": "Kitchen Kanaloa",
-      "menu": "しらすとビーフのランチボックス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-10",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
     },
     {
       "name": "Comida Latina",
       "menu": "沖縄タコライス",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-04",
+      "date": "2026-03-18",
       "url": "https://www.mellow.jp/ss_web/shops/yJSeD"
     },
     {
@@ -111,7 +97,7 @@
       "name": "むら川",
       "menu": "サーモンのレアカツ海苔弁",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-05",
+      "date": "2026-03-19",
       "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
     },
     {
@@ -123,7 +109,7 @@
     },
     {
       "name": "ピエニ キッサ",
-      "menu": "ダブルチーズタコライス",
+      "menu": "オリジナルタコライス",
       "hours": "11:30 〜 13:45",
       "date": "2026-03-05",
       "url": "https://www.mellow.jp/ss_web/shops/jzSbM"
@@ -132,7 +118,7 @@
       "name": "てふてふ",
       "menu": "カオマンガイ",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-12",
+      "date": "2026-03-26",
       "url": "https://www.mellow.jp/ss_web/shops/2ZSb"
     },
     {
@@ -146,7 +132,7 @@
       "name": "宗谷岬 間宮堂",
       "menu": "炙りほたて丼　極　(きわみ)",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-13",
+      "date": "2026-03-27",
       "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
     },
     {
@@ -155,13 +141,6 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-03-13",
       "url": "https://www.mellow.jp/ss_web/shops/A9Sdd"
-    },
-    {
-      "name": "GREEN SPAIN",
-      "menu": "スペシャルパエリアランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-06",
-      "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
     },
     {
       "name": "プラススパイス",
@@ -185,5 +164,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
     }
   ],
-  "scraped_at": "2026-02-01 15:18:52"
+  "scraped_at": "2026-02-15 15:19:48"
 }

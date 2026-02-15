@@ -13,14 +13,14 @@
       "name": "ジュリーズスパイス",
       "menu": "ナシゴレンとスパイシー鶏のハーフ丼",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-02",
+      "date": "2026-03-16",
       "url": "https://www.mellow.jp/ss_web/shops/yJSeq"
     },
     {
       "name": "ISLAND KITCHEN",
       "menu": "フライドジャークチキン　BBQ",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-09",
+      "date": "2026-03-23",
       "url": "https://www.mellow.jp/ss_web/shops/q8Smo"
     },
     {
@@ -48,14 +48,14 @@
       "name": "デューズ",
       "menu": "テリ・タマ丼",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-03",
+      "date": "2026-03-17",
       "url": "https://www.mellow.jp/ss_web/shops/MwSLY"
     },
     {
       "name": "TOKYO PAELLA",
       "menu": "PAELLA ※週替わり",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-10",
+      "date": "2026-03-24",
       "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
     },
     {
@@ -104,7 +104,7 @@
       "name": "フレーミング ノラ",
       "menu": "ノラスペシャル",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-04",
+      "date": "2026-03-18",
       "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
     },
     {
@@ -132,19 +132,19 @@
       "name": "papagayadeli",
       "menu": "シュニッツェル（チキンカツ)＆ファラフェルコンボ",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-05",
+      "date": "2026-03-19",
       "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
     },
     {
       "name": "STREET FARM KITCHEN",
       "menu": "タイスタイルBBQセット",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-12",
+      "date": "2026-03-26",
       "url": "https://www.mellow.jp/ss_web/shops/9ySOP"
     },
     {
       "name": "ピエニ キッサ",
-      "menu": "ダブルチーズタコライス",
+      "menu": "オリジナルタコライス",
       "hours": "11:30 〜 13:45",
       "date": "2026-02-19",
       "url": "https://www.mellow.jp/ss_web/shops/jzSbM"
@@ -164,17 +164,10 @@
       "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
     },
     {
-      "name": "プラススパイス",
-      "menu": "焼きたてナン&本格インドカレー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-06",
-      "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
-    },
-    {
       "name": "栄屋",
       "menu": "横手焼きそば",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-13",
+      "date": "2026-03-27",
       "url": "https://www.mellow.jp/ss_web/shops/evSx"
     },
     {
@@ -185,5 +178,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
     }
   ],
-  "scraped_at": "2026-02-01 15:18:58"
+  "scraped_at": "2026-02-15 15:19:54"
 }

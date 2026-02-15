@@ -20,14 +20,14 @@
       "name": "ISLAND KITCHEN",
       "menu": "フライドジャークチキン　BBQ",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-02",
+      "date": "2026-03-16",
       "url": "https://www.mellow.jp/ss_web/shops/q8Smo"
     },
     {
       "name": "Mr.Chicken★鶏飯店",
       "menu": "シンガポールチキンライス ホワイト",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-09",
+      "date": "2026-03-23",
       "url": "https://www.mellow.jp/ss_web/shops/RoS7"
     },
     {
@@ -48,14 +48,14 @@
       "name": "TOKYO PAELLA",
       "menu": "PAELLA ※週替わり",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-03",
+      "date": "2026-03-17",
       "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
     },
     {
       "name": "GRILL TOKYO",
       "menu": "スペシャルダブルセット",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-10",
+      "date": "2026-03-24",
       "url": "https://www.mellow.jp/ss_web/shops/JmSL"
     },
     {
@@ -90,7 +90,7 @@
       "name": "Bear's CAMP Cafe",
       "menu": "数量限定ハーフタコライス",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-04",
+      "date": "2026-03-18",
       "url": "https://www.mellow.jp/ss_web/shops/WkSp"
     },
     {
@@ -125,14 +125,14 @@
       "name": "STREET FARM KITCHEN",
       "menu": "タイスタイルBBQセット",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-05",
+      "date": "2026-03-19",
       "url": "https://www.mellow.jp/ss_web/shops/9ySOP"
     },
     {
       "name": "ピエニ キッサ",
-      "menu": "ダブルチーズタコライス",
+      "menu": "オリジナルタコライス",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-12",
+      "date": "2026-03-26",
       "url": "https://www.mellow.jp/ss_web/shops/jzSbM"
     },
     {
@@ -157,17 +157,10 @@
       "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
     },
     {
-      "name": "栄屋",
-      "menu": "横手焼きそば",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-06",
-      "url": "https://www.mellow.jp/ss_web/shops/evSx"
-    },
-    {
       "name": "肉屋のまかない弁当　やまと",
       "menu": "松阪牛スジ煮ランチ",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-13",
+      "date": "2026-03-27",
       "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
     },
     {
@@ -185,5 +178,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
     }
   ],
-  "scraped_at": "2026-02-01 15:18:57"
+  "scraped_at": "2026-02-15 15:19:53"
 }

@@ -27,7 +27,7 @@
       "name": "Mr.Chicken★鶏飯店",
       "menu": "シンガポールチキンライス ホワイト",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-16",
+      "date": "2026-03-30",
       "url": "https://www.mellow.jp/ss_web/shops/RoS7"
     },
     {
@@ -62,19 +62,12 @@
       "name": "GRILL TOKYO",
       "menu": "スペシャルダブルセット",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-17",
+      "date": "2026-03-31",
       "url": "https://www.mellow.jp/ss_web/shops/JmSL"
     },
     {
-      "name": "ROCKET CHICKEN",
-      "menu": "ロケットチキンベントーボックス2ピース〜",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-24",
-      "url": "https://www.mellow.jp/ss_web/shops/1bSvk"
-    },
-    {
       "name": "アジアエスニックキッチンMontana",
-      "menu": "コク旨ガパオライス",
+      "menu": "アジアンエスニック焼きそばホッケンミー",
       "hours": "11:30 〜 13:45",
       "date": "2026-03-03",
       "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
@@ -85,13 +78,6 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-03-04",
       "url": "https://www.mellow.jp/ss_web/shops/yJSeD"
-    },
-    {
-      "name": "ミラーン/MILLAN",
-      "menu": "カレー 一種盛",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-18",
-      "url": "https://www.mellow.jp/ss_web/shops/q8S84"
     },
     {
       "name": "Bear's CAMP Cafe",
@@ -143,13 +129,6 @@
       "url": "https://www.mellow.jp/ss_web/shops/9ySOP"
     },
     {
-      "name": "ピエニ キッサ",
-      "menu": "オリジナルタコライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-19",
-      "url": "https://www.mellow.jp/ss_web/shops/jzSbM"
-    },
-    {
       "name": "GREEN SPAIN",
       "menu": "スペシャルパエリアランチ",
       "hours": "11:30 〜 13:45",
@@ -169,14 +148,7 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-03-27",
       "url": "https://www.mellow.jp/ss_web/shops/evSx"
-    },
-    {
-      "name": "肉屋のまかない弁当　やまと",
-      "menu": "松阪牛スジ煮ランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-20",
-      "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
     }
   ],
-  "scraped_at": "2026-02-15 15:19:54"
+  "scraped_at": "2026-03-01 15:17:32"
 }

@@ -20,7 +20,7 @@
       "name": "ジュリーズスパイス",
       "menu": "ナシゴレンとスパイシー鶏のハーフ丼",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-16",
+      "date": "2026-03-30",
       "url": "https://www.mellow.jp/ss_web/shops/yJSeq"
     },
     {
@@ -41,15 +41,8 @@
       "name": "デューズ",
       "menu": "テリ・タマ丼",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-17",
+      "date": "2026-03-31",
       "url": "https://www.mellow.jp/ss_web/shops/MwSLY"
-    },
-    {
-      "name": "TOKYO PAELLA",
-      "menu": "PAELLA ※週替わり",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-24",
-      "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
     },
     {
       "name": "GRILL TOKYO",
@@ -60,7 +53,7 @@
     },
     {
       "name": "アジアエスニックキッチンMontana",
-      "menu": "コク旨ガパオライス",
+      "menu": "アジアンエスニック焼きそばホッケンミー",
       "hours": "11:30 〜 13:45",
       "date": "2026-03-17",
       "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
@@ -78,13 +71,6 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-03-11",
       "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
-    },
-    {
-      "name": "フレーミング ノラ",
-      "menu": "ノラスペシャル",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-18",
-      "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
     },
     {
       "name": "ミラーン/MILLAN",
@@ -122,13 +108,6 @@
       "url": "https://www.mellow.jp/ss_web/shops/2ZSb"
     },
     {
-      "name": "papagayadeli",
-      "menu": "シュニッツェル（チキンカツ)＆ファラフェルコンボ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-19",
-      "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
-    },
-    {
       "name": "宗谷岬 間宮堂",
       "menu": "炙りほたて丼　極　(きわみ)",
       "hours": "11:30 〜 13:45",
@@ -143,26 +122,12 @@
       "url": "https://www.mellow.jp/ss_web/shops/A9Sdd"
     },
     {
-      "name": "プラススパイス",
-      "menu": "焼きたてナン&本格インドカレー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-20",
-      "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
-    },
-    {
-      "name": "栄屋",
-      "menu": "横手焼きそば",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-27",
-      "url": "https://www.mellow.jp/ss_web/shops/evSx"
-    },
-    {
       "name": "肉屋のまかない弁当　やまと",
-      "menu": "松阪牛スジ煮ランチ",
+      "menu": "サーロインステーキランチ",
       "hours": "11:30 〜 13:45",
       "date": "2026-03-06",
       "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
     }
   ],
-  "scraped_at": "2026-02-15 15:19:48"
+  "scraped_at": "2026-03-01 15:17:26"
 }

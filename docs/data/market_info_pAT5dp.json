@@ -34,12 +34,12 @@
       "name": "ISLAND KITCHEN",
       "menu": "フライドジャークチキン　BBQ",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-16",
+      "date": "2026-03-30",
       "url": "https://www.mellow.jp/ss_web/shops/q8Smo"
     },
     {
       "name": "アジアエスニックキッチンMontana",
-      "menu": "コク旨ガパオライス",
+      "menu": "アジアンエスニック焼きそばホッケンミー",
       "hours": "11:30 〜 13:45",
       "date": "2026-03-10",
       "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
@@ -55,15 +55,8 @@
       "name": "TOKYO PAELLA",
       "menu": "PAELLA ※週替わり",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-17",
+      "date": "2026-03-31",
       "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
-    },
-    {
-      "name": "GRILL TOKYO",
-      "menu": "スペシャルダブルセット",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-24",
-      "url": "https://www.mellow.jp/ss_web/shops/JmSL"
     },
     {
       "name": "Kitchen Kanaloa",
@@ -94,13 +87,6 @@
       "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
     },
     {
-      "name": "Bear's CAMP Cafe",
-      "menu": "数量限定ハーフタコライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-18",
-      "url": "https://www.mellow.jp/ss_web/shops/WkSp"
-    },
-    {
       "name": "フレーミング ノラ",
       "menu": "ノラスペシャル",
       "hours": "11:30 〜 13:45",
@@ -113,13 +99,6 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-03-18",
       "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
-    },
-    {
-      "name": "むら川",
-      "menu": "サーモンのレアカツ海苔弁",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-12",
-      "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
     },
     {
       "name": "てふてふ",
@@ -136,11 +115,11 @@
       "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
     },
     {
-      "name": "STREET FARM KITCHEN",
-      "menu": "タイスタイルBBQセット",
+      "name": "むら川",
+      "menu": "サーモンのレアカツ海苔弁",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-19",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySOP"
+      "date": "2026-03-12",
+      "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
     },
     {
       "name": "琉球キッチン こだま",
@@ -148,13 +127,6 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-03-05",
       "url": "https://www.mellow.jp/ss_web/shops/YRSgB"
-    },
-    {
-      "name": "肉屋のまかない弁当　やまと",
-      "menu": "松阪牛スジ煮ランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-27",
-      "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
     },
     {
       "name": "Caffe Latte",
@@ -176,14 +148,7 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-03-27",
       "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
-    },
-    {
-      "name": "栄屋",
-      "menu": "横手焼きそば",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-20",
-      "url": "https://www.mellow.jp/ss_web/shops/evSx"
     }
   ],
-  "scraped_at": "2026-02-15 15:19:51"
+  "scraped_at": "2026-03-01 15:17:29"
 }

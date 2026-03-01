@@ -34,7 +34,7 @@
       "name": "es.tokyo",
       "menu": "ナシゴレン",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-16",
+      "date": "2026-03-30",
       "url": "https://www.mellow.jp/ss_web/shops/7ASE"
     },
     {
@@ -62,15 +62,8 @@
       "name": "ROCKET CHICKEN",
       "menu": "ロケットチキンベントーボックス2ピース〜",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-17",
+      "date": "2026-03-31",
       "url": "https://www.mellow.jp/ss_web/shops/1bSvk"
-    },
-    {
-      "name": "アジアエスニックキッチンMontana",
-      "menu": "コク旨ガパオライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-24",
-      "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
     },
     {
       "name": "MOCHIKO chicken factory",
@@ -101,13 +94,6 @@
       "url": "https://www.mellow.jp/ss_web/shops/q8S84"
     },
     {
-      "name": "BUGRACAFE  ブヴラカフェ",
-      "menu": "KEBAB DON 丼",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-18",
-      "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
-    },
-    {
       "name": "てふてふ",
       "menu": "カオマンガイ",
       "hours": "11:30 〜 13:45",
@@ -136,13 +122,6 @@
       "url": "https://www.mellow.jp/ss_web/shops/jzSbM"
     },
     {
-      "name": "琉球キッチン こだま",
-      "menu": "琉球ランチBOX",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-19",
-      "url": "https://www.mellow.jp/ss_web/shops/YRSgB"
-    },
-    {
       "name": "宗谷岬 間宮堂",
       "menu": "炙りほたて丼　極　(きわみ)",
       "hours": "11:30 〜 13:45",
@@ -158,25 +137,11 @@
     },
     {
       "name": "肉屋のまかない弁当　やまと",
-      "menu": "松阪牛スジ煮ランチ",
+      "menu": "サーロインステーキランチ",
       "hours": "11:30 〜 13:45",
       "date": "2026-03-27",
       "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
-    },
-    {
-      "name": "Caffe Latte",
-      "menu": "選べるイタリアンランチBox（ご飯とメイン料理2品とサイド2品）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-20",
-      "url": "https://www.mellow.jp/ss_web/shops/A9Sdd"
-    },
-    {
-      "name": "GREEN SPAIN",
-      "menu": "スペシャルパエリアランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-27",
-      "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
     }
   ],
-  "scraped_at": "2026-02-15 15:19:53"
+  "scraped_at": "2026-03-01 15:17:30"
 }

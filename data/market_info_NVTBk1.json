@@ -13,7 +13,7 @@
       "name": "クリスマスサンタ",
       "menu": "ローストチキン",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-16",
+      "date": "2026-03-30",
       "url": "https://www.mellow.jp/ss_web/shops/bWS4l"
     },
     {
@@ -60,9 +60,9 @@
     },
     {
       "name": "アジアエスニックキッチンMontana",
-      "menu": "コク旨ガパオライス",
+      "menu": "アジアンエスニック焼きそばホッケンミー",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-17",
+      "date": "2026-03-31",
       "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
     },
     {
@@ -73,32 +73,11 @@
       "url": "https://www.mellow.jp/ss_web/shops/JmSL"
     },
     {
-      "name": "Kitchen Kanaloa",
-      "menu": "しらすとビーフのランチボックス",
+      "name": "Bear's CAMP Cafe",
+      "menu": "数量限定ハーフタコライス",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-24",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
-    },
-    {
-      "name": "Comida Latina",
-      "menu": "沖縄タコライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-18",
-      "url": "https://www.mellow.jp/ss_web/shops/yJSeD"
-    },
-    {
-      "name": "フレーミング ノラ",
-      "menu": "ノラスペシャル",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-04",
-      "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
-    },
-    {
-      "name": "BUGRACAFE  ブヴラカフェ",
-      "menu": "KEBAB DON 丼",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-25",
-      "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
+      "date": "2026-03-11",
+      "url": "https://www.mellow.jp/ss_web/shops/WkSp"
     },
     {
       "name": "ミラーン/MILLAN",
@@ -108,18 +87,18 @@
       "url": "https://www.mellow.jp/ss_web/shops/q8S84"
     },
     {
-      "name": "Bear's CAMP Cafe",
-      "menu": "数量限定ハーフタコライス",
+      "name": "BUGRACAFE  ブヴラカフェ",
+      "menu": "KEBAB DON 丼",
       "hours": "11:30 〜 13:45",
-      "date": "2026-03-11",
-      "url": "https://www.mellow.jp/ss_web/shops/WkSp"
+      "date": "2026-03-25",
+      "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
     },
     {
-      "name": "むら川",
-      "menu": "サーモンのレアカツ海苔弁",
+      "name": "フレーミング ノラ",
+      "menu": "ノラスペシャル",
       "hours": "11:30 〜 13:45",
-      "date": "2026-02-19",
-      "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
+      "date": "2026-03-04",
+      "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
     },
     {
       "name": "琉球キッチン こだま",
@@ -169,21 +148,7 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-03-27",
       "url": "https://www.mellow.jp/ss_web/shops/A9Sdd"
-    },
-    {
-      "name": "GREEN SPAIN",
-      "menu": "スペシャルパエリアランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-20",
-      "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
-    },
-    {
-      "name": "宗谷岬 間宮堂",
-      "menu": "炙りほたて丼　極　(きわみ)",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-02-27",
-      "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
     }
   ],
-  "scraped_at": "2026-02-15 15:19:50"
+  "scraped_at": "2026-03-01 15:17:27"
 }

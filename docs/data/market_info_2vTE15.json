@@ -3,13 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "ビストロカルロス",
-      "menu": "カルロス☆ビーフステーキライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-09",
-      "url": "https://www.mellow.jp/ss_web/shops/rXS3o"
-    },
-    {
       "name": "ジュリーズスパイス",
       "menu": "ナシゴレンとスパイシー鶏のハーフ丼",
       "hours": "11:30 〜 13:45",
@@ -29,20 +22,6 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-03-30",
       "url": "https://www.mellow.jp/ss_web/shops/RoS7"
-    },
-    {
-      "name": "クリスマスサンタ",
-      "menu": "ローストチキン",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-02",
-      "url": "https://www.mellow.jp/ss_web/shops/bWS4l"
-    },
-    {
-      "name": "Kitchen Kanaloa",
-      "menu": "しらすとビーフのランチボックス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-10",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
     },
     {
       "name": "デューズ",
@@ -66,27 +45,6 @@
       "url": "https://www.mellow.jp/ss_web/shops/JmSL"
     },
     {
-      "name": "アジアエスニックキッチンMontana",
-      "menu": "アジアンエスニック焼きそばホッケンミー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-03",
-      "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
-    },
-    {
-      "name": "Comida Latina",
-      "menu": "沖縄タコライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-04",
-      "url": "https://www.mellow.jp/ss_web/shops/yJSeD"
-    },
-    {
-      "name": "Bear's CAMP Cafe",
-      "menu": "数量限定ハーフタコライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-25",
-      "url": "https://www.mellow.jp/ss_web/shops/WkSp"
-    },
-    {
       "name": "フレーミング ノラ",
       "menu": "ノラスペシャル",
       "hours": "11:30 〜 13:45",
@@ -94,25 +52,11 @@
       "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
     },
     {
-      "name": "MOCHIKO chicken factory",
-      "menu": "モチコチキン（ハニーマスタードソース）",
+      "name": "Bear's CAMP Cafe",
+      "menu": "数量限定ハーフタコライス",
       "hours": "11:30 〜 13:45",
-      "date": "2026-03-11",
-      "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
-    },
-    {
-      "name": "むら川",
-      "menu": "サーモンのレアカツ海苔弁",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-05",
-      "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
-    },
-    {
-      "name": "てふてふ",
-      "menu": "カオマンガイ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-12",
-      "url": "https://www.mellow.jp/ss_web/shops/2ZSb"
+      "date": "2026-03-25",
+      "url": "https://www.mellow.jp/ss_web/shops/WkSp"
     },
     {
       "name": "papagayadeli",
@@ -129,20 +73,6 @@
       "url": "https://www.mellow.jp/ss_web/shops/9ySOP"
     },
     {
-      "name": "GREEN SPAIN",
-      "menu": "スペシャルパエリアランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-06",
-      "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
-    },
-    {
-      "name": "宗谷岬 間宮堂",
-      "menu": "炙りほたて丼　極　(きわみ)",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-03-13",
-      "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
-    },
-    {
       "name": "栄屋",
       "menu": "横手焼きそば",
       "hours": "11:30 〜 13:45",
@@ -150,5 +80,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/evSx"
     }
   ],
-  "scraped_at": "2026-03-01 15:17:32"
+  "scraped_at": "2026-03-15 15:23:39"
 }

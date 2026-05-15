@@ -3,41 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "肉屋のまかない弁当　やまと",
-      "menu": "サーロインステーキランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-08",
-      "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
-    },
-    {
-      "name": "es.tokyo",
-      "menu": "ナシゴレン",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-11",
-      "url": "https://www.mellow.jp/ss_web/shops/7ASE"
-    },
-    {
-      "name": "ROCKET CHICKEN",
-      "menu": "ロケットチキンベントーボックス2ピース〜",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-12",
-      "url": "https://www.mellow.jp/ss_web/shops/1bSvk"
-    },
-    {
-      "name": "BUGRACAFE  ブヴラカフェ",
-      "menu": "KEBAB DON 丼",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-13",
-      "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
-    },
-    {
-      "name": "琉球キッチン こだま",
-      "menu": "琉球ランチBOX",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-14",
-      "url": "https://www.mellow.jp/ss_web/shops/YRSgB"
-    },
-    {
       "name": "クリスマスサンタ",
       "menu": "ローストチキン",
       "hours": "11:30 〜 13:45",
@@ -206,6 +171,41 @@
       "url": "https://www.mellow.jp/ss_web/shops/2ZSb"
     },
     {
+      "name": "肉屋のまかない弁当　やまと",
+      "menu": "サーロインステーキランチ",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-19",
+      "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
+    },
+    {
+      "name": "es.tokyo",
+      "menu": "ナシゴレン",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-22",
+      "url": "https://www.mellow.jp/ss_web/shops/7ASE"
+    },
+    {
+      "name": "ROCKET CHICKEN",
+      "menu": "ロケットチキンベントーボックス2ピース〜",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-23",
+      "url": "https://www.mellow.jp/ss_web/shops/1bSvk"
+    },
+    {
+      "name": "BUGRACAFE  ブヴラカフェ",
+      "menu": "KEBAB DON 丼",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-24",
+      "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
+    },
+    {
+      "name": "琉球キッチン こだま",
+      "menu": "琉球ランチBOX",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-25",
+      "url": "https://www.mellow.jp/ss_web/shops/YRSgB"
+    },
+    {
       "name": "Caffe Latte",
       "menu": "選べるイタリアンランチBox（ご飯とメイン料理2品とサイド2品）",
       "hours": "11:30 〜 13:45",
@@ -213,5 +213,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/A9Sdd"
     }
   ],
-  "scraped_at": "2026-05-01 15:51:49"
+  "scraped_at": "2026-05-15 16:47:44"
 }

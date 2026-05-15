@@ -3,48 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "こはく堂",
-      "menu": "バターチキンカレー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-07",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7Saq7"
-    },
-    {
-      "name": "宗谷岬 間宮堂",
-      "menu": "炙りほたて丼　極　(きわみ)",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-08",
-      "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
-    },
-    {
-      "name": "CUCINA DAINO",
-      "menu": "自家製ボロネーゼ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-11",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySEy"
-    },
-    {
-      "name": "sugiwagon",
-      "menu": "プルコギポークのビビンバ（サラダ無し）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-12",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySE95"
-    },
-    {
-      "name": "フレーミング ノラ",
-      "menu": "ノラスペシャル",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-13",
-      "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
-    },
-    {
-      "name": "papagayadeli",
-      "menu": "ジュニツェル(チキンカツ)&ファラフェル",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-14",
-      "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
-    },
-    {
       "name": "ISLAND KITCHEN",
       "menu": "フライドジャークチキン　BBQ",
       "hours": "11:30 〜 13:45",
@@ -206,6 +164,48 @@
       "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
     },
     {
+      "name": "こはく堂",
+      "menu": "バターチキンカレー",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-18",
+      "url": "https://www.mellow.jp/ss_web/shops/Z7Saq7"
+    },
+    {
+      "name": "宗谷岬 間宮堂",
+      "menu": "炙りほたて丼　極　(きわみ)",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-19",
+      "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
+    },
+    {
+      "name": "CUCINA DAINO",
+      "menu": "自家製ボロネーゼ",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-22",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySEy"
+    },
+    {
+      "name": "sugiwagon",
+      "menu": "プルコギポークのビビンバ（サラダ無し）",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-23",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySE95"
+    },
+    {
+      "name": "フレーミング ノラ",
+      "menu": "ノラスペシャル",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-24",
+      "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
+    },
+    {
+      "name": "papagayadeli",
+      "menu": "ジュニツェル(チキンカツ)&ファラフェル",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-25",
+      "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
+    },
+    {
       "name": "プラススパイス",
       "menu": "焼きたてナン&本格インドカレー",
       "hours": "11:30 〜 13:45",
@@ -213,5 +213,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
     }
   ],
-  "scraped_at": "2026-05-01 15:51:44"
+  "scraped_at": "2026-05-15 16:47:38"
 }

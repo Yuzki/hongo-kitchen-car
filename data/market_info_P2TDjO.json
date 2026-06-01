@@ -3,83 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "クリスマスサンタ",
-      "menu": "ローストチキン",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-18",
-      "url": "https://www.mellow.jp/ss_web/shops/bWS4l"
-    },
-    {
-      "name": "アジアエスニックキッチンMontana",
-      "menu": "コク旨ガパオライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-19",
-      "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
-    },
-    {
-      "name": "PINOS",
-      "menu": "ヤミーチキン&ライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-20",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySpy"
-    },
-    {
-      "name": "むら川",
-      "menu": "サーモンのレアカツ海苔弁",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-21",
-      "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
-    },
-    {
-      "name": "GREEN SPAIN",
-      "menu": "スペシャルパエリアランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-22",
-      "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
-    },
-    {
-      "name": "ビストロカルロス",
-      "menu": "カルロス☆ビーフステーキライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-25",
-      "url": "https://www.mellow.jp/ss_web/shops/rXS3o"
-    },
-    {
-      "name": "Kitchen Kanaloa",
-      "menu": "しらすとビーフのランチボックス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-26",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
-    },
-    {
-      "name": "MOCHIKO chicken factory",
-      "menu": "モチコチキン（ハニーマスタードソース）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-27",
-      "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
-    },
-    {
-      "name": "こはく堂",
-      "menu": "バターチキンカレー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-28",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7Saq7"
-    },
-    {
-      "name": "宗谷岬 間宮堂",
-      "menu": "炙りほたて丼　極　(きわみ)",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-05-29",
-      "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
-    },
-    {
-      "name": "CUCINA DAINO",
-      "menu": "自家製ボロネーゼ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-01",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySEy"
-    },
-    {
       "name": "sugiwagon",
       "menu": "プルコギポークのビビンバ（サラダ無し）",
       "hours": "11:30 〜 13:45",
@@ -211,7 +134,84 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-06-26",
       "url": "https://www.mellow.jp/ss_web/shops/A9Sdd"
+    },
+    {
+      "name": "クリスマスサンタ",
+      "menu": "ローストチキン",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-29",
+      "url": "https://www.mellow.jp/ss_web/shops/bWS4l"
+    },
+    {
+      "name": "アジアエスニックキッチンMontana",
+      "menu": "コク旨ガパオライス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-06-30",
+      "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
+    },
+    {
+      "name": "PINOS",
+      "menu": "ヤミーチキン&ライス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-01",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySpy"
+    },
+    {
+      "name": "むら川",
+      "menu": "サーモンのレアカツ海苔弁",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-02",
+      "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
+    },
+    {
+      "name": "GREEN SPAIN",
+      "menu": "スペシャルパエリアランチ",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-03",
+      "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
+    },
+    {
+      "name": "ビストロカルロス",
+      "menu": "カルロス☆ビーフステーキライス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-06",
+      "url": "https://www.mellow.jp/ss_web/shops/rXS3o"
+    },
+    {
+      "name": "Kitchen Kanaloa",
+      "menu": "しらすとビーフのランチボックス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-07",
+      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
+    },
+    {
+      "name": "MOCHIKO chicken factory",
+      "menu": "モチコチキン（ハニーマスタードソース）",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-08",
+      "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
+    },
+    {
+      "name": "こはく堂",
+      "menu": "バターチキンカレー",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-09",
+      "url": "https://www.mellow.jp/ss_web/shops/Z7Saq7"
+    },
+    {
+      "name": "宗谷岬 間宮堂",
+      "menu": "炙りほたて丼　極　(きわみ)",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-10",
+      "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
+    },
+    {
+      "name": "CUCINA DAINO",
+      "menu": "自家製ボロネーゼ",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-13",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySEy"
     }
   ],
-  "scraped_at": "2026-05-15 16:47:44"
+  "scraped_at": "2026-06-01 19:53:17"
 }

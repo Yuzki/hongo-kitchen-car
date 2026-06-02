@@ -167,20 +167,6 @@ header p {
     font-weight: bold;
 }
 
-/* Day of Week Headers */
-.calendar::before {
-    content: "日 月 火 水 木 金 土";
-    display: block;
-    grid-column: 1 / -1;
-    background: #34495e;
-    color: white;
-    padding: 15px;
-    text-align: center;
-    font-weight: bold;
-    letter-spacing: 2rem;
-    text-indent: 1rem;
-}
-
 /* Shop Details */
 .shop-details {
     background: white;
@@ -312,13 +298,7 @@ header p {
         min-height: 60px;
         padding: 5px;
     }
-    
-    .calendar::before {
-        letter-spacing: 1rem;
-        text-indent: 0.5rem;
-        padding: 10px;
-    }
-    
+
     .shop-info {
         flex-direction: column;
         align-items: flex-start;

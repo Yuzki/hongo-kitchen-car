@@ -3,90 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "Kitchen Kanaloa",
-      "menu": "しらすとビーフのランチボックス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-16",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
-    },
-    {
-      "name": "MOCHIKO chicken factory",
-      "menu": "モチコチキン（ハニーマスタードソース）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-17",
-      "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
-    },
-    {
-      "name": "こはく堂",
-      "menu": "バターチキンカレー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-18",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7Saq7"
-    },
-    {
-      "name": "宗谷岬 間宮堂",
-      "menu": "炙りほたて丼　極　(きわみ)",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-19",
-      "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
-    },
-    {
-      "name": "CUCINA DAINO",
-      "menu": "自家製ボロネーゼ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-22",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySEy"
-    },
-    {
-      "name": "sugiwagon",
-      "menu": "プルコギポークのビビンバ（サラダ無し）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-23",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySE95"
-    },
-    {
-      "name": "フレーミング ノラ",
-      "menu": "ノラスペシャル",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-24",
-      "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
-    },
-    {
-      "name": "papagayadeli",
-      "menu": "ジュニツェル(チキンカツ)&ファラフェル",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-25",
-      "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
-    },
-    {
-      "name": "プラススパイス",
-      "menu": "焼きたてナン&本格インドカレー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-26",
-      "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
-    },
-    {
-      "name": "ISLAND KITCHEN",
-      "menu": "フライドジャークチキン　BBQ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-29",
-      "url": "https://www.mellow.jp/ss_web/shops/q8Smo"
-    },
-    {
-      "name": "TOKYO PAELLA",
-      "menu": "PAELLA ※週替わり",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-06-30",
-      "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
-    },
-    {
-      "name": "キッチンカーゴトク",
-      "menu": "から揚げごはん ハニーマスタード",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-07-01",
-      "url": "https://www.mellow.jp/ss_web/shops/g1Sv"
-    },
-    {
       "name": "STREET FARM KITCHEN",
       "menu": "タイスタイルBBQセット",
       "hours": "11:30 〜 13:45",
@@ -206,12 +122,82 @@
       "url": "https://www.mellow.jp/ss_web/shops/rXS3o"
     },
     {
+      "name": "Kitchen Kanaloa",
+      "menu": "しらすとビーフのランチボックス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-28",
+      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
+    },
+    {
+      "name": "MOCHIKO chicken factory",
+      "menu": "モチコチキン（ハニーマスタードソース）",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-29",
+      "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
+    },
+    {
+      "name": "こはく堂",
+      "menu": "バターチキンカレー",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-30",
+      "url": "https://www.mellow.jp/ss_web/shops/Z7Saq7"
+    },
+    {
+      "name": "宗谷岬 間宮堂",
+      "menu": "炙りほたて丼　極　(きわみ)",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-07-31",
+      "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
+    },
+    {
+      "name": "CUCINA DAINO",
+      "menu": "自家製ボロネーゼ",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-08-03",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySEy"
+    },
+    {
+      "name": "sugiwagon",
+      "menu": "プルコギポークのビビンバ（サラダ無し）",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-08-04",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySE95"
+    },
+    {
+      "name": "フレーミング ノラ",
+      "menu": "ノラスペシャル",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-08-05",
+      "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
+    },
+    {
+      "name": "papagayadeli",
+      "menu": "ジュニツェル(チキンカツ)&ファラフェル",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-08-06",
+      "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
+    },
+    {
+      "name": "プラススパイス",
+      "menu": "焼きたてナン&本格インドカレー",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-08-07",
+      "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
+    },
+    {
       "name": "クリスマスサンタ",
       "menu": "ローストチキン",
       "hours": "11:30 〜 13:45",
       "date": "2026-08-31",
       "url": "https://www.mellow.jp/ss_web/shops/bWS4l"
+    },
+    {
+      "name": "TOKYO PAELLA",
+      "menu": "PAELLA ※週替わり",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-22",
+      "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
     }
   ],
-  "scraped_at": "2026-06-15 19:00:29"
+  "scraped_at": "2026-07-01 17:08:57"
 }

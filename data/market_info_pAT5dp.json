@@ -3,48 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "ISLAND KITCHEN",
-      "menu": "フライドジャークチキン　BBQ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-03",
-      "url": "https://www.mellow.jp/ss_web/shops/q8Smo"
-    },
-    {
-      "name": "TOKYO PAELLA",
-      "menu": "PAELLA ※週替わり",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-04",
-      "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
-    },
-    {
-      "name": "キッチンカーゴトク",
-      "menu": "から揚げごはん ネギ醤油",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-05",
-      "url": "https://www.mellow.jp/ss_web/shops/g1Sv"
-    },
-    {
-      "name": "STREET FARM KITCHEN",
-      "menu": "タイスタイルBBQセット",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-06",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySOP"
-    },
-    {
-      "name": "西京屋　周",
-      "menu": "からあげ丼",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-07",
-      "url": "https://www.mellow.jp/ss_web/shops/yJSmx"
-    },
-    {
-      "name": "肉屋のまかない弁当　やまと",
-      "menu": "サーロインステーキランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-14",
-      "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
-    },
-    {
       "name": "es.tokyo",
       "menu": "ナシゴレン",
       "hours": "11:30 〜 13:45",
@@ -185,11 +143,32 @@
       "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
     },
     {
-      "name": "GRILL TOKYO",
-      "menu": "スペシャルダブルセット",
+      "name": "ISLAND KITCHEN",
+      "menu": "フライドジャークチキン　BBQ",
       "hours": "11:30 〜 13:45",
-      "date": "2026-09-22",
-      "url": "https://www.mellow.jp/ss_web/shops/JmSL"
+      "date": "2026-09-14",
+      "url": "https://www.mellow.jp/ss_web/shops/q8Smo"
+    },
+    {
+      "name": "TOKYO PAELLA",
+      "menu": "PAELLA ※週替わり",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-15",
+      "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
+    },
+    {
+      "name": "STREET FARM KITCHEN",
+      "menu": "タイスタイルBBQセット",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-17",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySOP"
+    },
+    {
+      "name": "西京屋　周",
+      "menu": "からあげ丼",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-18",
+      "url": "https://www.mellow.jp/ss_web/shops/yJSmx"
     },
     {
       "name": "てふてふ",
@@ -197,7 +176,14 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-09-24",
       "url": "https://www.mellow.jp/ss_web/shops/2ZSb"
+    },
+    {
+      "name": "肉屋のまかない弁当　やまと",
+      "menu": "サーロインステーキランチ",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-25",
+      "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
     }
   ],
-  "scraped_at": "2026-08-01 15:56:08"
+  "scraped_at": "2026-08-15 15:13:37"
 }

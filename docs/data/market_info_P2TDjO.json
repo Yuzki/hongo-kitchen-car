@@ -3,48 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "es.tokyo",
-      "menu": "ナシゴレン",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-03",
-      "url": "https://www.mellow.jp/ss_web/shops/7ASE"
-    },
-    {
-      "name": "ROCKET CHICKEN",
-      "menu": "ロケットチキンベントーボックス2ピース〜",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-04",
-      "url": "https://www.mellow.jp/ss_web/shops/1bSvk"
-    },
-    {
-      "name": "BUGRACAFE  ブヴラカフェ",
-      "menu": "KEBAB DON 丼",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-05",
-      "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
-    },
-    {
-      "name": "琉球キッチン こだま",
-      "menu": "琉球ラフテー弁当",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-06",
-      "url": "https://www.mellow.jp/ss_web/shops/YRSgB"
-    },
-    {
-      "name": "Caffe Latte",
-      "menu": "選べるイタリアンランチBox（ご飯とメイン料理2品とサイド2品）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-07",
-      "url": "https://www.mellow.jp/ss_web/shops/A9Sdd"
-    },
-    {
-      "name": "むら川",
-      "menu": "サーモンのレアカツ海苔弁",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-13",
-      "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
-    },
-    {
       "name": "ビストロカルロス",
       "menu": "カルロス☆ビーフステーキライス",
       "hours": "11:30 〜 13:45",
@@ -122,13 +80,6 @@
       "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
     },
     {
-      "name": "キッチンカーゴトク",
-      "menu": "から揚げごはん ネギ醤油",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-09-02",
-      "url": "https://www.mellow.jp/ss_web/shops/g1Sv"
-    },
-    {
       "name": "STREET FARM KITCHEN",
       "menu": "タイスタイルBBQセット",
       "hours": "11:30 〜 13:45",
@@ -178,11 +129,46 @@
       "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
     },
     {
-      "name": "アジアエスニックキッチンMontana",
-      "menu": "コク旨ガパオライス",
+      "name": "es.tokyo",
+      "menu": "ナシゴレン",
       "hours": "11:30 〜 13:45",
-      "date": "2026-09-22",
-      "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
+      "date": "2026-09-14",
+      "url": "https://www.mellow.jp/ss_web/shops/7ASE"
+    },
+    {
+      "name": "ROCKET CHICKEN",
+      "menu": "ロケットチキンベントーボックス2ピース〜",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-15",
+      "url": "https://www.mellow.jp/ss_web/shops/1bSvk"
+    },
+    {
+      "name": "BUGRACAFE  ブヴラカフェ",
+      "menu": "KEBAB DON 丼",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-16",
+      "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
+    },
+    {
+      "name": "琉球キッチン こだま",
+      "menu": "琉球ラフテー弁当",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-17",
+      "url": "https://www.mellow.jp/ss_web/shops/YRSgB"
+    },
+    {
+      "name": "Caffe Latte",
+      "menu": "選べるイタリアンランチBox（ご飯とメイン料理2品とサイド2品）",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-18",
+      "url": "https://www.mellow.jp/ss_web/shops/A9Sdd"
+    },
+    {
+      "name": "むら川",
+      "menu": "サーモンのレアカツ海苔弁",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-24",
+      "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
     },
     {
       "name": "GREEN SPAIN",
@@ -192,5 +178,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
     }
   ],
-  "scraped_at": "2026-08-01 15:56:11"
+  "scraped_at": "2026-08-15 15:13:39"
 }

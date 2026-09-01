@@ -3,83 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "ビストロカルロス",
-      "menu": "カルロス☆ビーフステーキライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-17",
-      "url": "https://www.mellow.jp/ss_web/shops/rXS3o"
-    },
-    {
-      "name": "Kitchen Kanaloa",
-      "menu": "しらすとビーフのランチボックス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-18",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
-    },
-    {
-      "name": "MOCHIKO chicken factory",
-      "menu": "モチコチキン（ハニーマスタードソース）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-19",
-      "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
-    },
-    {
-      "name": "こはく堂",
-      "menu": "バターチキンカレー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-20",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7Saq7"
-    },
-    {
-      "name": "CUCINA DAINO",
-      "menu": "自家製ボロネーゼ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-24",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySEy"
-    },
-    {
-      "name": "sugiwagon",
-      "menu": "プルコギポークのビビンバ（サラダ無し）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-25",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySE95"
-    },
-    {
-      "name": "フレーミング ノラ",
-      "menu": "ノラスペシャル",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-26",
-      "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
-    },
-    {
-      "name": "papagayadeli",
-      "menu": "シュニッツェル（チキンカツ)＆ファラフェルコンボ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-27",
-      "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
-    },
-    {
-      "name": "プラススパイス",
-      "menu": "焼きたてナン&本格インドカレー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-28",
-      "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
-    },
-    {
-      "name": "ISLAND KITCHEN",
-      "menu": "フライドジャークチキン　BBQ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-08-31",
-      "url": "https://www.mellow.jp/ss_web/shops/q8Smo"
-    },
-    {
-      "name": "TOKYO PAELLA",
-      "menu": "PAELLA ※週替わり",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-09-01",
-      "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
-    },
-    {
       "name": "STREET FARM KITCHEN",
       "menu": "タイスタイルBBQセット",
       "hours": "11:30 〜 13:45",
@@ -176,7 +99,28 @@
       "hours": "11:30 〜 13:45",
       "date": "2026-09-25",
       "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
+    },
+    {
+      "name": "ビストロカルロス",
+      "menu": "カルロス☆ビーフステーキライス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-28",
+      "url": "https://www.mellow.jp/ss_web/shops/rXS3o"
+    },
+    {
+      "name": "Kitchen Kanaloa",
+      "menu": "しらすとビーフのランチボックス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-29",
+      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
+    },
+    {
+      "name": "MOCHIKO chicken factory",
+      "menu": "モチコチキン（ハニーマスタードソース）",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-09-30",
+      "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
     }
   ],
-  "scraped_at": "2026-08-15 15:13:39"
+  "scraped_at": "2026-09-01 18:05:43"
 }

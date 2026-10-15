@@ -3,69 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "GREEN SPAIN",
-      "menu": "パエリアランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-02",
-      "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
-    },
-    {
-      "name": "ビストロカルロス",
-      "menu": "カルロス☆ビーフステーキライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-05",
-      "url": "https://www.mellow.jp/ss_web/shops/rXS3o"
-    },
-    {
-      "name": "Kitchen Kanaloa",
-      "menu": "しらすとビーフのランチボックス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-06",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
-    },
-    {
-      "name": "MOCHIKO chicken factory",
-      "menu": "モチコチキン（ハニーマスタードソース）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-07",
-      "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
-    },
-    {
-      "name": "こはく堂",
-      "menu": "バターチキンカレー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-08",
-      "url": "https://www.mellow.jp/ss_web/shops/Z7Saq7"
-    },
-    {
-      "name": "宗谷岬 間宮堂",
-      "menu": "炙りほたて丼　極　(きわみ)",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-09",
-      "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
-    },
-    {
-      "name": "sugiwagon",
-      "menu": "プルコギポークのビビンバ（サラダ無し）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-13",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySE95"
-    },
-    {
-      "name": "フレーミング ノラ",
-      "menu": "ノラスペシャル",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-14",
-      "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
-    },
-    {
-      "name": "papagayadeli",
-      "menu": "ジュニツェル(チキンカツ)&ファラフェル",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-15",
-      "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
-    },
-    {
       "name": "プラススパイス",
       "menu": "焼きたてナン&本格インドカレー",
       "hours": "11:30 〜 13:45",
@@ -199,8 +136,71 @@
       "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
     },
     {
+      "name": "GREEN SPAIN",
+      "menu": "パエリアランチ",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-13",
+      "url": "https://www.mellow.jp/ss_web/shops/NrSXM"
+    },
+    {
+      "name": "ビストロカルロス",
+      "menu": "カルロス☆ビーフステーキライス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-16",
+      "url": "https://www.mellow.jp/ss_web/shops/rXS3o"
+    },
+    {
+      "name": "Kitchen Kanaloa",
+      "menu": "しらすとビーフのランチボックス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-17",
+      "url": "https://www.mellow.jp/ss_web/shops/Z7SLb"
+    },
+    {
+      "name": "MOCHIKO chicken factory",
+      "menu": "モチコチキン（ハニーマスタードソース）",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-18",
+      "url": "https://www.mellow.jp/ss_web/shops/BdSBP"
+    },
+    {
+      "name": "こはく堂",
+      "menu": "バターチキンカレー",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-19",
+      "url": "https://www.mellow.jp/ss_web/shops/Z7Saq7"
+    },
+    {
+      "name": "宗谷岬 間宮堂",
+      "menu": "炙りほたて丼　極　(きわみ)",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-20",
+      "url": "https://www.mellow.jp/ss_web/shops/yJSbR"
+    },
+    {
+      "name": "sugiwagon",
+      "menu": "プルコギポークのビビンバ（サラダ無し）",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-24",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySE95"
+    },
+    {
+      "name": "フレーミング ノラ",
+      "menu": "ノラスペシャル",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-25",
+      "url": "https://www.mellow.jp/ss_web/shops/5gS4B"
+    },
+    {
+      "name": "papagayadeli",
+      "menu": "ジュニツェル(チキンカツ)&ファラフェル",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-26",
+      "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
+    },
+    {
       "name": "ROCKET CHICKEN",
-      "menu": "ベントーボックス2ピース",
+      "menu": "ロケットチキンベントーボックス2ピース〜",
       "hours": "11:30 〜 13:45",
       "date": "2026-12-15",
       "url": "https://www.mellow.jp/ss_web/shops/1bSvk"
@@ -213,5 +213,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/9ySEy"
     }
   ],
-  "scraped_at": "2026-10-01 20:02:40"
+  "scraped_at": "2026-10-15 18:48:56"
 }

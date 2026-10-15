@@ -3,69 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "肉屋のまかない弁当　やまと",
-      "menu": "サーロインステーキランチ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-02",
-      "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
-    },
-    {
-      "name": "es.tokyo",
-      "menu": "ナシゴレン",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-05",
-      "url": "https://www.mellow.jp/ss_web/shops/7ASE"
-    },
-    {
-      "name": "ROCKET CHICKEN",
-      "menu": "ベントーボックス2ピース",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-06",
-      "url": "https://www.mellow.jp/ss_web/shops/1bSvk"
-    },
-    {
-      "name": "BUGRACAFE  ブヴラカフェ",
-      "menu": "KEBAB DON 丼",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-07",
-      "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
-    },
-    {
-      "name": "琉球キッチン こだま",
-      "menu": "琉球ラフテー弁当",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-08",
-      "url": "https://www.mellow.jp/ss_web/shops/YRSgB"
-    },
-    {
-      "name": "Caffe Latte",
-      "menu": "選べるイタリアンランチBox（ご飯とメイン料理2品とサイド2品）",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-09",
-      "url": "https://www.mellow.jp/ss_web/shops/A9Sdd"
-    },
-    {
-      "name": "アジアエスニックキッチンMontana",
-      "menu": "コク旨ガパオライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-13",
-      "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
-    },
-    {
-      "name": "PINOS",
-      "menu": "ヤミーチキン&ライス",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-14",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySpy"
-    },
-    {
-      "name": "むら川",
-      "menu": "サーモンのレアカツ海苔弁",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-15",
-      "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
-    },
-    {
       "name": "GREEN SPAIN",
       "menu": "パエリアランチ",
       "hours": "11:30 〜 13:45",
@@ -185,6 +122,69 @@
       "url": "https://www.mellow.jp/ss_web/shops/2ZSb"
     },
     {
+      "name": "肉屋のまかない弁当　やまと",
+      "menu": "サーロインステーキランチ",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-13",
+      "url": "https://www.mellow.jp/ss_web/shops/4DSYD"
+    },
+    {
+      "name": "es.tokyo",
+      "menu": "ナシゴレン",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-16",
+      "url": "https://www.mellow.jp/ss_web/shops/7ASE"
+    },
+    {
+      "name": "ROCKET CHICKEN",
+      "menu": "ロケットチキンベントーボックス2ピース〜",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-17",
+      "url": "https://www.mellow.jp/ss_web/shops/1bSvk"
+    },
+    {
+      "name": "BUGRACAFE  ブヴラカフェ",
+      "menu": "KEBAB DON 丼",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-18",
+      "url": "https://www.mellow.jp/ss_web/shops/zVSM8"
+    },
+    {
+      "name": "琉球キッチン こだま",
+      "menu": "琉球ラフテー弁当",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-19",
+      "url": "https://www.mellow.jp/ss_web/shops/YRSgB"
+    },
+    {
+      "name": "Caffe Latte",
+      "menu": "選べるイタリアンランチBox（ご飯とメイン料理2品とサイド2品）",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-20",
+      "url": "https://www.mellow.jp/ss_web/shops/A9Sdd"
+    },
+    {
+      "name": "アジアエスニックキッチンMontana",
+      "menu": "コク旨ガパオライス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-24",
+      "url": "https://www.mellow.jp/ss_web/shops/wwSakd"
+    },
+    {
+      "name": "PINOS",
+      "menu": "ヤミーチキン&ライス",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-25",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySpy"
+    },
+    {
+      "name": "むら川",
+      "menu": "サーモンのレアカツ海苔弁",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-26",
+      "url": "https://www.mellow.jp/ss_web/shops/g1Sdq"
+    },
+    {
       "name": "フレーミング ノラ",
       "menu": "ノラスペシャル",
       "hours": "11:30 〜 13:45",
@@ -213,5 +213,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/bWS4l"
     }
   ],
-  "scraped_at": "2026-10-01 20:02:31"
+  "scraped_at": "2026-10-15 18:48:48"
 }

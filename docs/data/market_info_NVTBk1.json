@@ -3,69 +3,6 @@
   "market_name": "キッチンカー定期出店スケジュール",
   "shop_info": [
     {
-      "name": "プラススパイス",
-      "menu": "焼きたてナン&本格インドカレー",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-02",
-      "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
-    },
-    {
-      "name": "ISLAND KITCHEN",
-      "menu": "フライドジャークチキン　BBQ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-05",
-      "url": "https://www.mellow.jp/ss_web/shops/q8Smo"
-    },
-    {
-      "name": "TOKYO PAELLA",
-      "menu": "PAELLA ※週替わり",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-06",
-      "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
-    },
-    {
-      "name": "M&M",
-      "menu": "贅沢肉盛り弁当(ローストポーク&から揚げ)",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-07",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySbE"
-    },
-    {
-      "name": "STREET FARM KITCHEN",
-      "menu": "タイスタイルBBQセット",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-08",
-      "url": "https://www.mellow.jp/ss_web/shops/9ySOP"
-    },
-    {
-      "name": "西京屋　周",
-      "menu": "からあげ丼",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-09",
-      "url": "https://www.mellow.jp/ss_web/shops/yJSmx"
-    },
-    {
-      "name": "GRILL TOKYO",
-      "menu": "スペシャルダブルセット",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-13",
-      "url": "https://www.mellow.jp/ss_web/shops/JmSL"
-    },
-    {
-      "name": "ミラーン/MILLAN",
-      "menu": "カレー 一種盛",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-14",
-      "url": "https://www.mellow.jp/ss_web/shops/q8S84"
-    },
-    {
-      "name": "てふてふ",
-      "menu": "カオマンガイ",
-      "hours": "11:30 〜 13:45",
-      "date": "2026-10-15",
-      "url": "https://www.mellow.jp/ss_web/shops/2ZSb"
-    },
-    {
       "name": "肉屋のまかない弁当　やまと",
       "menu": "サーロインステーキランチ",
       "hours": "11:30 〜 13:45",
@@ -81,7 +18,7 @@
     },
     {
       "name": "ROCKET CHICKEN",
-      "menu": "ベントーボックス2ピース",
+      "menu": "ロケットチキンベントーボックス2ピース〜",
       "hours": "11:30 〜 13:45",
       "date": "2026-10-20",
       "url": "https://www.mellow.jp/ss_web/shops/1bSvk"
@@ -199,6 +136,69 @@
       "url": "https://www.mellow.jp/ss_web/shops/YRSXL"
     },
     {
+      "name": "プラススパイス",
+      "menu": "焼きたてナン&本格インドカレー",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-13",
+      "url": "https://www.mellow.jp/ss_web/shops/8WSMZ"
+    },
+    {
+      "name": "ISLAND KITCHEN",
+      "menu": "フライドジャークチキン　BBQ",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-16",
+      "url": "https://www.mellow.jp/ss_web/shops/q8Smo"
+    },
+    {
+      "name": "TOKYO PAELLA",
+      "menu": "PAELLA ※週替わり",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-17",
+      "url": "https://www.mellow.jp/ss_web/shops/A9Sd"
+    },
+    {
+      "name": "M&M",
+      "menu": "贅沢肉盛り弁当(ローストポーク&から揚げ)",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-18",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySbE"
+    },
+    {
+      "name": "STREET FARM KITCHEN",
+      "menu": "タイスタイルBBQセット",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-19",
+      "url": "https://www.mellow.jp/ss_web/shops/9ySOP"
+    },
+    {
+      "name": "西京屋　周",
+      "menu": "からあげ丼",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-20",
+      "url": "https://www.mellow.jp/ss_web/shops/yJSmx"
+    },
+    {
+      "name": "GRILL TOKYO",
+      "menu": "スペシャルダブルセット",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-24",
+      "url": "https://www.mellow.jp/ss_web/shops/JmSL"
+    },
+    {
+      "name": "ミラーン/MILLAN",
+      "menu": "カレー 一種盛",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-25",
+      "url": "https://www.mellow.jp/ss_web/shops/q8S84"
+    },
+    {
+      "name": "てふてふ",
+      "menu": "カオマンガイ",
+      "hours": "11:30 〜 13:45",
+      "date": "2026-11-26",
+      "url": "https://www.mellow.jp/ss_web/shops/2ZSb"
+    },
+    {
       "name": "Kitchen Kanaloa",
       "menu": "しらすとビーフのランチボックス",
       "hours": "11:30 〜 13:45",
@@ -213,5 +213,5 @@
       "url": "https://www.mellow.jp/ss_web/shops/RoS7"
     }
   ],
-  "scraped_at": "2026-10-01 20:02:33"
+  "scraped_at": "2026-10-15 18:48:50"
 }
